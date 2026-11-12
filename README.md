@@ -6,8 +6,7 @@ A Windows desktop tool that automates repetitive League (VS COM) matches in FIFA
 ![Downloads](https://img.shields.io/github/downloads/S-Krommarin/Fo3-AutoClick/total?label=downloads&style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge)
 
-<!-- TODO: add a screenshot or GIF of the main window here -->
-<!-- ![Screenshot](docs/screenshot.png) -->
+<p align="center"><img src="docs/screenshot.png" alt="FO3 Auto League main window" width="300"></p>
 
 ## Overview
 
